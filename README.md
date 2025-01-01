@@ -33,8 +33,9 @@ Follow these steps to set up the project locally:
 1. *Clone the Repository*:
    - Open your terminal or command prompt.
    - Clone this repository using the following command:
-     bash
+     ```bash
      git clone https://github.com/BlackPearl117/feedback-submission-system.git
+     ```
      
 2. *Navigate to the Project Directory*:
    - Change your working directory to the project folder:
