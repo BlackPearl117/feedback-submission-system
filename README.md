@@ -39,14 +39,16 @@ Follow these steps to set up the project locally:
      
 2. *Navigate to the Project Directory*:
    - Change your working directory to the project folder:
-     bash
+     ```bash
      cd feedback-submission-system
+     ```
      
 3. *Set Up the Database*:
    - Start your MySQL server
    - Log in to MySQL and create the required database
-    bash
+    ```bash
       CREATE DATABASE feedbackdb;
+    ```
     
 
 4. *Open the Project in Eclipse or IntelliJ IDEA*:
